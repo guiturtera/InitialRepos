@@ -1,0 +1,8 @@
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\bin\Debug\miniGame.exe
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\bin\Debug\miniGame.pdb
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\obj\Debug\miniGame.Form1.resources
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\obj\Debug\miniGame.Properties.Resources.resources
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\obj\Debug\miniGame.csproj.GenerateResource.Cache
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\obj\Debug\miniGame.exe
+C:\Users\guilherme.turtera\Documents\miniGame\miniGame\obj\Debug\miniGame.pdb

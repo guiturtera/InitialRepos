@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@600&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+}
+header
+{
+  z-index: 10;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #292A2D;
+}
+img
+{
+  height: 150px;
+}
+nav 
+{
+  justify-content: right;
+}
+nav a
+{
+  font-family: 'Tomorrow', sans-serif;
+  margin-left: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+}
+nav a:hover{
+
+  text-decoration: underline;
+  
+}
+.logo{
+  float: left;
+  margin-left: 50px;
+}
+.menu{
+  float: right;
+  line-height: 150px;
+  margin-right: 70px;
+}

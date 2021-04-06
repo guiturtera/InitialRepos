@@ -1,0 +1,12 @@
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\bin\Debug\Thread_MultiThread.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\bin\Debug\Thread_MultiThread.pdb
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Window1.baml
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Window1.g.cs
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\App.g.cs
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Thread_MultiThread_MarkupCompile.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Thread_MultiThread.g.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Thread_MultiThread.Properties.Resources.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Thread_MultiThread.csproj.GenerateResource.Cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Thread_MultiThread.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Thread_MultiThread\obj\Debug\Thread_MultiThread.pdb

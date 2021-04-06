@@ -1,0 +1,8 @@
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\bin\Debug\NOVOTESTECOM.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\bin\Debug\NOVOTESTECOM.pdb
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\obj\Debug\NOVOTESTECOM.Form1.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\obj\Debug\NOVOTESTECOM.Properties.Resources.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\obj\Debug\NOVOTESTECOM.csproj.GenerateResource.Cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\obj\Debug\NOVOTESTECOM.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\NOVOTESTECOM\obj\Debug\NOVOTESTECOM.pdb

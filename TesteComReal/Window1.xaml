@@ -1,0 +1,54 @@
+﻿<Window x:Class="TesteComReal.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="600" Width="800">
+    <Window.Resources>
+        <ContextMenu x:Key="cmFile">
+            <MenuItem Header="Connect" />
+            <Separator />
+            <MenuItem Header="Exit" />
+        </ContextMenu>
+    </Window.Resources>
+    <Grid>
+        <Menu Height="30" Name="menuPrincipal" VerticalAlignment="Top">
+            <MenuItem Header="Arquivo" IsCheckable="False" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Height="Auto" Name="menuArquivo">
+                <MenuItem.ItemBindingGroup>
+                    <BindingGroup Name="{x:Null}" NotifyOnValidationError="False" />
+                </MenuItem.ItemBindingGroup>
+                <MenuItem Header="Conectar" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" Name="menuConectar" Click="menuConectar_Click">
+                    <MenuItem.ContextMenu>
+                        <ContextMenu FlowDirection="RightToLeft" />
+                    </MenuItem.ContextMenu>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Sair" Name="menuSair" Click="menuSair_Click"/>
+            </MenuItem>
+            
+            <MenuItem Header="Opções" Name="menuOpcoes">
+                <MenuItem Header="Escrever Registros" Name="menuEscreverRegistros" Click="menuEscreverRegistros_Click"/>
+                <MenuItem Header="Escrever Coils" Name="menuEscreverCoils" Click="menuEscreverCoils_Click"/>
+            </MenuItem>
+            <MenuItem Header="Ajuda" Name="menuAjuda" Click="menuAjuda_Click" />
+        </Menu>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="184.341,80.19,0,0" Name="txtID" VerticalAlignment="Top" Width="120"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="184.341,165.93,0,0" Name="txtQntLeituras" VerticalAlignment="Top" Width="120" />
+        <TextBox HorizontalAlignment="Left" Margin="184.341,123.06,0,0" Name="txtEndereço" Width="120" Height="23.267" VerticalAlignment="Top" />
+        <Label Height="23" HorizontalAlignment="Left" Margin="20.006,80.19,0,0" Name="label1" VerticalAlignment="Top" Width="145.758" Content="Endereço do dispositivo:" FontWeight="Bold"></Label>
+        <Label Height="23" HorizontalAlignment="Left" Margin="20.006,165.93,0,0" Name="label2" VerticalAlignment="Top" Width="145.682" FontWeight="Bold">Quantidade de leituras:</Label>
+        <Label Height="37.154" HorizontalAlignment="Left" Margin="20.006,123.06,0,0" Name="label3" VerticalAlignment="Top" Width="145.682" FontWeight="Bold">Endereço de começo:</Label>
+        <ListBox Margin="337.244,80.19,267.223,0" Name="listBox1" Height="168.622" VerticalAlignment="Top" />
+        <Label FontWeight="Bold" Height="23" Margin="337.244,0,295.074,252.933" Name="label4" VerticalAlignment="Bottom">Número de falhas:</Label>
+        <Label FontWeight="Bold" Height="23" Margin="337.244,257.22,295.074,0" Name="label5" VerticalAlignment="Top">Total de mensagens:</Label>
+        <Label FontWeight="Bold" Height="23" HorizontalAlignment="Right" Margin="0,0,231.498,252.933" Name="lblTotalMensagens" VerticalAlignment="Bottom" Width="72.879">0</Label>
+        <Label FontWeight="Bold" Height="23" HorizontalAlignment="Right" Margin="0,257.22,231.498,0" Name="lblNumFalhas" VerticalAlignment="Top" Width="72.879">0</Label>
+        <GroupBox Header="Funções" Margin="27.151,0,0,54.302" Name="gbxFuncoes" Height="153.306" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="180.054">
+            <Grid Name="grid1" Width="154.332" Height="100.433">
+                <RadioButton Height="16" Margin="22.864,28.58,11.432,0" Name="rbtCoil" VerticalAlignment="Top">Ler Coils</RadioButton>
+                <RadioButton Name="rbtRegistro" Margin="22.864,0,11.468,30.009" Height="16.122" VerticalAlignment="Bottom">Ler Registros</RadioButton>
+            </Grid>
+        </GroupBox>
+        <Label FontWeight="Bold" Height="23" HorizontalAlignment="Left" Margin="228.64,0,0,54.302" Name="label6" VerticalAlignment="Bottom" Width="75.701">Intervalo:</Label>
+        <TextBox Height="23.267" Margin="297.232,0,374.398,52.035" Name="txtIntervalo" VerticalAlignment="Bottom" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,295.074,211.492" Name="btnReset" VerticalAlignment="Bottom" Width="75" Click="btnReset_Click">Reset</Button>
+    </Grid>
+</Window>

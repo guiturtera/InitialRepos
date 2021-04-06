@@ -1,0 +1,14 @@
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\bin\Debug\TesteComReal.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\bin\Debug\TesteComReal.pdb
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\Window1.baml
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\Window1.g.cs
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\App.g.cs
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\TesteComReal_MarkupCompile.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\TesteComReal.g.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\TesteComReal.Properties.Resources.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\TesteComReal.csproj.GenerateResource.Cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\TesteComReal.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\TesteComReal.pdb
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\Window2.baml
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteComReal\obj\Debug\Window2.g.cs

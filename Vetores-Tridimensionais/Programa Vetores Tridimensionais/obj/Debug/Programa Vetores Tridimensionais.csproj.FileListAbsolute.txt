@@ -1,0 +1,58 @@
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe.config
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.pdb
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.Properties.Resources.resources
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.exe
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.pdb
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmMain.resources
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmVetores.resources
+C:\Users\HP\source\repos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmResolucao.resources
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe.config
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.pdb
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csprojAssemblyReference.cache
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmMain.resources
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmVetores.resources
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmResolucao.resources
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.Properties.Resources.resources
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.GenerateResource.cache
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.CoreCompileInputs.cache
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.exe
+D:\VisualStudio\projetos\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.pdb
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe.config
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.pdb
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmMain.resources
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmVetores.resources
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmResolucao.resources
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.Properties.Resources.resources
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.exe
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.pdb
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe.manifest
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.application
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.TrustInfo.xml
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.exe.manifest
+C:\Users\HP\Documents\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.application
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe.config
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe.manifest
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.application
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.exe
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\bin\Debug\Programa Vetores Tridimensionais.pdb
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmMain.resources
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmVetores.resources
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.frmResolucao.resources
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa_Vetores_Tridimensionais.Properties.Resources.resources
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.TrustInfo.xml
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.exe.manifest
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.application
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.exe
+C:\Users\HP\Documents\Termomecanica-extra\Programa Vetores Tridimensionais\Programa Vetores Tridimensionais\obj\Debug\Programa Vetores Tridimensionais.pdb

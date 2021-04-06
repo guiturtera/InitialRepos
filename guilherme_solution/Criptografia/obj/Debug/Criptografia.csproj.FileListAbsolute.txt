@@ -1,0 +1,14 @@
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\App.g.cs
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Criptografia_MarkupCompile.cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Window1.baml
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Window1.g.cs
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Criptografia.g.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.Cache
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\guilherme.turtera\Documents\IntroC#2\GuilhermeSolution\TesteCom2\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\guilherme.turtera\Documents\guilherme_turtera\SolutionC#\guilherme_solution\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\guilherme.turtera\Documents\guilherme_turtera\SolutionC#\guilherme_solution\Criptografia\obj\Debug\Criptografia.pdb

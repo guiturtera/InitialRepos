@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\bin\Debug\netcoreapp3.1\JogoSuperQuizz.exe
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\bin\Debug\netcoreapp3.1\JogoSuperQuizz.deps.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\bin\Debug\netcoreapp3.1\JogoSuperQuizz.runtimeconfig.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\bin\Debug\netcoreapp3.1\JogoSuperQuizz.runtimeconfig.dev.json
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\bin\Debug\netcoreapp3.1\JogoSuperQuizz.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\bin\Debug\netcoreapp3.1\JogoSuperQuizz.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.csprojAssemblyReference.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.AssemblyInfo.cs
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.dll
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.pdb
+C:\Users\HP\Documents\EC2\Algoritmos 2\Trabalhos\JogoSuperQuizz\JogoSuperQuizz\obj\Debug\netcoreapp3.1\JogoSuperQuizz.genruntimeconfig.cache

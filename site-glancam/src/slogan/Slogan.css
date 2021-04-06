@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@600&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.slogan
+{
+  background-image: url('./imgs/lamparina.jpg');
+  height: 415px;
+  background-repeat: no-repeat;
+}
+
+.slogan h3
+{
+  font-family: 'Tomorrow';
+  font-size: 55px;
+  color: white;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.slogan h4
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 26pt;
+  text-align: center;
+  color: white;
+  padding: 40px;
+
+}

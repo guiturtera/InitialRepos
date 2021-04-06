@@ -1,0 +1,8 @@
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.Form1.resources
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.Properties.Resources.resources
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.csproj.GenerateResource.Cache
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\bin\Debug\CalculoIncerteza.exe
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\bin\Debug\CalculoIncerteza.pdb
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.exe
+\\192.168.31.156\publico\Estagio\Guilherme\IntroC#2\GuilhermeSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.pdb

@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@600&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.portifolio{
+  background-image: url('./imgs/disco-vinil.jpg');
+  height: 1269px;
+  background-repeat: no-repeat;
+  background-size: auto 1269px;
+  background-position: center;
+}
+.portifolio div a{
+  color: #FEF952;
+  text-decoration: none;
+  border: 3px solid #FEF952;
+  padding: 10px 30px;
+  font-size: 30px;
+  font-family: 'Tomorrow', sans-serif;
+  text-align: center;
+}
+
+.portifolio h1{
+  padding: 90px 0 80px 0;
+  text-align: center;
+  color: white;
+  font-family: 'Tomorrow';
+  font-size: 35px;
+  
+}
+.grid{
+  display: grid;
+  grid-template-columns: 150px 1124px 150px;
+  justify-content: center;
+}
+.port1{grid-area: port1;}
+.port2{grid-area: port2;}
+.port3{grid-area: port3;}
+.port1 img,.port2 img,.port3 img{
+  height: 368px;
+}
+.port3 img{
+  height: 363px;
+}
+.grid-port{
+  display: grid;
+  grid-template-areas: 
+  'port1 port2'
+  'port3 port3';
+}
+.seta img{
+  width: 100%;
+  height: 100%;
+}
+.seta:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+  transition: all 0.5s;
+}
+.carrossel
+{
+  clear: both;
+  margin: 0 auto;
+}
+.botoes1{
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+.botoes1 btn2{
+  line-height: 0px;
+  margin: 0 5px;
+  padding: 0px 9px;
+  border-radius: 10px;
+  background-color: #D1D0D8;
+  border: 2px solid black;
+  margin-bottom: 50px;
+  
+}
+.botoes1 btn2:hover{
+  cursor: pointer;
+  background-color: #F9F458;
+}
+.btn2
+{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+.btn2 a
+{
+  color: #FC5D5C;
+  text-decoration: none;
+  border: 3px solid #FC5D5C;
+  padding: 10px 30px;
+  font-size: 30px;
+  font-family: 'Tomorrow', sans-serif;
+}
+
+.btn2 a:hover{
+  color:  #FC5D5C ;
+  border-color: #FC5D5C;
+}

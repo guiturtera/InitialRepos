@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@600&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.div-servicos
+{
+  
+  text-align: center;
+}
+
+
+h1
+{
+  margin-top: 70px;
+  font-family: 'Tomorrow';
+  font-size: 35px;
+}
+h2
+{
+  margin-top: 20px;
+}
+ul
+{
+  margin-top: 70px;
+  list-style: none;
+}
+li
+{
+  display: inline-block;
+}
+ul li img
+{
+  height: 168px;
+  width: 219px;
+  margin: 0px 40px;
+}
+.botoes{
+  margin-top: 50px;
+}
+.botoes btn{
+  line-height: 0px;
+  margin: 0 5px;
+  padding: 0px 9px;
+  border-radius: 10px;
+  background-color: #D1D0D8;
+  border: 2px solid black;
+  margin-bottom: 50px;
+}
+.botoes btn:hover{
+  cursor: pointer;
+  background-color: #FC5D5C;
+}
+.btn-saiba-mais
+{
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+.btn-saiba-mais a
+{
+  color: #FC5D5C;
+  text-decoration: none;
+  border: 3px solid #FC5D5C;
+  padding: 10px 30px;
+  font-size: 30px;
+  font-family: 'Tomorrow', sans-serif;
+}
+
+.btn-saiba-mais a:hover{
+  color:#F9F458;
+  border-color:  #F9F458;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorldIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "8382bb7a"
+}

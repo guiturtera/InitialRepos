@@ -1,0 +1,15 @@
+﻿<Window x:Class="Criptografia.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="263" Width="777">
+    <Grid>
+        <Button Height="34" Margin="119,0,0,25" Name="btnCriptografa" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="98" Click="btnCriptografa_Click">Criptografar</Button>
+        <TextBox Margin="8,46,0,75" Name="txtEntrada" HorizontalAlignment="Left" Width="209" />
+        <Label Height="28" Margin="0,18,0,0" Name="label1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="233">Escreva um texto para ser criptografado:</Label>
+        <TextBox Margin="268,46,278,75" Name="txtCriptografado" />
+        <Label Height="28" Margin="268,18,357,0" Name="label2" VerticalAlignment="Top">Texto criptografado:</Label>
+        <Button Height="34" HorizontalAlignment="Right" Margin="0,0,25,25" VerticalAlignment="Bottom" Width="91" Name="btnDescriptografa" Click="btnDescriptografa_Click">Descriptografar</Button>
+        <TextBox HorizontalAlignment="Right" Margin="0,46,25,75" Name="txtDescriptografado" Width="209" />
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,18,9,0" Name="label3" VerticalAlignment="Top" Width="233">Descriptografar texto:</Label>
+    </Grid>
+</Window>

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@600&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.introduction
+{
+  background-image: url('./imgs/teclado.jpg');
+  margin-top: 156px;
+  height: 588px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+.introduction h1
+{
+  padding-top: 60px;
+  font-family: 'Tomorrow', sans-serif;
+  font-size: 70px;
+  color: white;
+}
+
+.introduction p
+{
+  display: inline-block;
+  color: white;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 434px;
+}
+.introduction p::before
+{
+  content: '';
+  display: block;
+  width: 184px;
+  height: 3px;
+  background-color: white;
+  margin: 29px auto;
+  margin-top: 47px;
+}
+.introduction p::after
+{
+  content: '';
+  display: block;
+  width: 184px;
+  height: 3px;
+  background-color: white;
+  margin: 29px auto;
+  margin-bottom: 80px;
+}
+.introduction a
+{
+  color: #FEF952;
+  text-decoration: none;
+  border: 3px solid #FEF952;
+  padding: 10px 30px;
+  font-size: 30px;
+  font-family: 'Tomorrow', sans-serif;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.introduction a:hover{
+  color: #FC5D5C;
+  border-color: #FC5D5C;
+}

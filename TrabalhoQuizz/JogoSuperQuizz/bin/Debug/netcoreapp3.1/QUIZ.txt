@@ -1,0 +1,57 @@
+Em termos de alimentação, uma pessoa frugal é aquela que...|Língua Portuguesa|se alimenta com moderação|se alimenta apenas de carnes brancas|se alimenta com moderação|come apenas vegetais|come churrasco todas as semanas
+Qual é o melhor professor da FTT?|Língua Portuguesa|Eduardo Rosalem|Eduardo Rosalem|Eduardo Rosafrem|Eduardo Rosaquem|Eduardo Rosisvaldo
+O que significa uma pessoa claustrofóbica?|Fobias|medo de ambientes fechados|medo do escuro|medo de ambientes fechados|medo de correr|medo de carro
+O que significa uma pessoa agorafóbica?|Fobias|medo de multidão|medo do escuro|medo de ambientes fechados|medo de multidão|medo de carro
+O que significa uma pessoa aracnofóbica?|Fobias|medo de aranhas|medo do escuro|medo de ambientes fechados|medo de aranhas|medo de carro
+O que significa uma pessoa zoofóbica?|Fobias|medo de animais|medo de animais|medo de ambientes fechados|medo de correr|medo de carro
+O que significa uma pessoa nitofóbica?|Fobias|medo do escuro|medo do escuro|medo de ambientes fechados|medo de correr|medo de carro
+O que significa uma pessoa acrofóbica?|Fobias|medo de altura|medo do escuro|medo de ambientes fechados|medo de correr|medo de altura
+O que significa uma pessoa glossofóbica?|Fobias|medo de falar em público|medo de falar em público|medo de ambientes fechados|medo de correr|medo de carro
+O que significa uma pessoa hematofóbica?|Fobias|medo de sangue|medo do escuro|medo de ambientes fechados|medo de sangue|medo de carro
+Qual é o melhor professor da FTT?|Fobias|Eduardo Rosalem|Eduardo Rosalem|Eduardo Rosafrem|Eduardo Rosaquem|Eduardo Rosisvaldo
+O que falaram para o carbono quando ele foi preso?|Química|você tem direito a 4 ligações|você tem direito a 3 ligações|você tem direito a 4 ligações|você tem direito a 1 ligação|vai trabalhar vagabundo
+Quantos grupos tem a tabela periódica?|Química|18 grupos|13 grupos|12 grupos|17 grupos|18 grupos
+Quem é o "pai" da tabela periódica?|Química|dmitri mendeleiev|dmitri mendeleiev|isaac newton|albert eistein|stephen hawking
+Quantos períodos a tabela peiódica possui?|Química|7 períodos|2 períodos|4 períodos|5 períodos|7 períodos
+O símbolo H é:|Química|hidrogênio|hélio|háfnio|mercúrio|hidrogênio
+O símbolo Na é:|Química|sódio|potássio|sódio|neptúnio|vanádio
+Qual é o melhor professor da FTT?|Química|Eduardo Rosalem|Eduardo Rosalem|Eduardo Rosafrem|Eduardo Rosaquem|Eduardo Rosisvaldo
+Qual o resultado da conta? (2-3)*4 + 5|Matemática|1|2|1|25|9
+Quanto custa uma jaqueta de 10R$ junto com uma bota de 5R$?|Matemática|15|10|12,5|15|14,5
+Quanto é 2+3?|Matemática|5|6|3|5|4
+Quanto é 24/12 + 10?|Matemática|12|1,1|13|11|12
+Quanto é 25+2*10?|Matemática|45|12|270|11|45
+Qual é o melhor professor da FTT?|Matemática|Eduardo Rosalem|Eduardo Rosalem|Eduardo Rosafrem|Eduardo Rosaquem|Eduardo Rosisvaldo
+Qual o sinônimo de exceto?|Língua Portuguesa|salvo|claro|salvado|arena|salvo
+Qual o antônimo de exceto?|Língua Portuguesa|incluso|incluso|exceto|claro|salvo
+Qual a acentuação correta?|Língua Portuguesa|lâmpada|lampáda|lâmpada|lámpada|lampâda
+O que melhor define um adjetivo?|Língua Portuguesa|qualidade|qualidade|ação|estado|felicidade
+O que melhor define um verbo?|Língua Portuguesa|ação|qualidade|ação|estado|feliz
+Número de ciclos por segundo é:|Física|frequência|tempo|distância|velocidade|frequência
+Deslocamento em um determinado tempo é dado em:|Física|velocidade|tempo|distância|velocidade|frequência
+No SI, espaço é dado em:|Física|metros|jardas|pés|polegadas|metros
+No SI, tempo é dado em:|Física|segundos|minutos|horas|dias|segundos
+No SI, massa é dada em:|Física|kg|lb|barris|kg|metros
+No SI, corrente elétrica é dada em:|Física|ampere|ampere|coulumb|polegadas|tempo
+No SI, temperatura é dada em:|Física|kelvin|celcius|kelvin|fahrenheit|rankine
+Qual é o melhor professor da FTT?|Física|Eduardo Rosalem|Eduardo Rosalem|Eduardo Rosafrem|Eduardo Rosaquem|Eduardo Rosisvaldo
+Qual time foi campeão da Copa do Mundo de 1978? | Futebol | Argentina | Brasil | Alemanha | França | Argentina	
+Qual time foi campeão da Copa do Mundo de 1954? | Futebol | Alemanha | Alemanha | Uruguai | França | Espanha
+Qual time foi campeão da Copa do Mundo de 1962? | Futebol | Brasil | Brasil | Alemanha | Espanha | Itália
+Qual time foi campeão da Copa do Mundo de 2018? | Futebol | França | Espanha | Suíça | França | Argentina
+Qual time foi campeão da Copa do Mundo de 2006? | Futebol | Itália | Inglaterra | Brasil | França | Itália
+Qual time foi campeão da Champions League de 2015-16? | Futebol | Real Madrid | Barcelona | Real Madrid | Liverpool | Bayern de Munique
+Qual time foi campeão da Champions League de 2002-03? | Futebol | Milan | Ajax | Internazionale | Liverpool | Milan
+Qual time foi campeão da Champions League de 1995-96? | Futebol | Juventus | Benfica | Porto | Juventus | Manchester United
+Qual time foi campeão da Champions League de 2005-06? | Futebol | Barcelona | Barcelona | Milan | Real Madrid | Bayern de Munique
+Qual time foi campeão da Champions League de 1970-71? | Futebol | Ajax | Chelsea | Real Madrid | Ajax | Celtic
+Qual é o nome da Empresa fundada por Elon Musk? | Automobilístico | Tesla | Ford | Toyota | Tesla | Hyundai
+Qual é o nome do Fundador da Ford | Automobilístico | Henry Ford | Edsel Bryant Ford | Henry Ford II | Henry Ford | William Ford
+Qual desses carros não pertence a marca da Ford? | Automobilístico | Siena | Ka | EcoSport | Territory | Siena 
+O que é acionado mais frequentemente entre um motorista e o volante quando ocorre algum contato brusco? | Automobilístico | Air Bag | Freio | Acelerador | Para - Tudo | Air Bag
+Qual foi o Primeiro carro do mundo? | Automobilístico | Patent-Motorwagen | Volkswagem | Patent-Motorwagen | Dodge Charger R/T | Triumph TR6
+Qual marca é a fabricante de um carro "Civic"? | Automobilístico | Honda | Hyundai | Toyota | Honda | Chevrolet 
+Qual marca é a fabricante de um carro "Brasília"? | Automobilístico | Volkswagem | Ford | Volkswagem | Chevrolet | Fiat
+Qual dessas não é uma marca de carro? | Automobilístico | Atom | Fiat | Lexus | Lifan | Atom |
+Parte do carro que geralmente é usado em dia de chuva: | Automobilístico | Para-Brisa | Pisca-Alerta | Lanterna | Câmbio | Para-Brisa
+O pedal maior de um carro "normal" sem ser o automático realiza qual função? | Automobilístico | Acelera | Freia | Acelera | Ativa Embreagem | Ativa Pisca-Alerta
